@@ -1,0 +1,17 @@
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.exe.config
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.exe
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.pdb
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Form1.resources
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Properties.Resources.resources
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.GenerateResource.cache
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.exe
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.pdb
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.FrmOgrenciNotlar.resources
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.FrmOgretmen.resources
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.FrmKulup.resources
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.FrmDersler.resources
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.FrmOgrenci.resources
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.FrmSinavNotlar.resources
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.ogrencisayfasi.resources
+C:\Users\AYDENİZ\Source\Repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.AssemblyReference.cache
